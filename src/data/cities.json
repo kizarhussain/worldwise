@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Mysore",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-29T03:26:55.000Z",
+      "notes": "",
+      "position": {
+        "lat": "12.31853594166211",
+        "lng": "76.65161132812501"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2024-09-22T10:20:49.503Z",
+      "notes": "",
+      "position": {
+        "lat": "53.336509575199045",
+        "lng": "-6.251220703125001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-09-22T10:33:13.862Z",
+      "notes": "",
+      "position": {
+        "lat": "38.706850466740796",
+        "lng": "-9.133758544921877"
+      },
+      "id": 4
+    }
+  ]
+}
